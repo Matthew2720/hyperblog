@@ -1,5 +1,5 @@
-Jelou
+Modificamos las lineas en historia
 
-This im jonson is
+Todo para el manual de git
 
-Welcome to the
+y poder revisar los cambios
